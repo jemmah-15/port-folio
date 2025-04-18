@@ -279,7 +279,6 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 For questions or further information:
 
-- **Name**: Shaun Mia
-- **Email**: shaunmia.cse@gmail.com
-- **LinkedIn**: [Shaun Mia](https://www.linkedin.com/in/shaun-mia/)
-- **GitHub**: [shaun-mia](https://github.com/shaun-mia)
+- **Name**: Julia Emma Hackbarth
+- **Email**: jemma150021@gmail.com
+
